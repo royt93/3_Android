@@ -20,12 +20,12 @@ laralem
 Petr Novák
 Joel A
 B o d o
+Максим Горпиніч
 Priit Jõerüüt
 Taco
 pfaffenrodt
 Aayush Gupta
 Scrambled777
-Максим Горпиніч
 ikanakova
 HudobniVolk
 Giovanni Donisi
@@ -55,7 +55,6 @@ Projjal Moitra
 Robin
 JungHee Lee
 தமிழ் நேரம்
-Maksim2005UA
 Ziad OUALHADJ
 Vasilis
 Robin Liu
